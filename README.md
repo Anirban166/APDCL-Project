@@ -18,4 +18,4 @@ Objectives:
 
 (6) Password Encryption (one liners such as Md5 should be avoided, use RSA from repository).
 
-(7) Use One Time Password (OTP) verification, with OTP being sent to email.
+(7) Use One Time Password (OTP) verification for forgotten password case, with OTP being sent to email.
