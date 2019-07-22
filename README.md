@@ -12,7 +12,7 @@ Objectives:
 
 (3) Collect daily logs for each entity which are accessible by them individually, with the Admin having privileged access to all.
 
-(4) Save logs into a pdf file. (with timestamp and necessary details)
+(4) Generate report / save logs into a pdf file. (with timestamp and necessary details)
 
 (5) Create session and disable multiple cases of a running session. 
 
