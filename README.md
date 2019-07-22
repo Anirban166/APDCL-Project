@@ -8,9 +8,9 @@ Objectives:
 -------
 (1) Data Storage for attributes such as Username/Password/Email etc divided into two concurrent tables with masking of both.
 
-(2) Apart from regular users, an Administrator
+(2) Apart from regular users, an Administrator with greater rights should be accountable.
 
-(3) Collect daily logs for each entity which are accessible by them individually, with the Administrator being able to access them all.(Privileged access)
+(3) Collect daily logs for each entity which are accessible by them individually, with the Admin having privileged access to all.
 
 (4) Save logs into a pdf file. (with timestamp and necessary details)
 
