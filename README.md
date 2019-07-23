@@ -10,7 +10,7 @@ Objectives:
 
 (2) Apart from regular users, an Administrator with greater rights should be accountable.
 
-(3) Collect daily logs for each entity which are accessible by them individually, with the Admin having privileged access to all.
+(3) Collect daily logs for each user which are accessible by them individually, with the Admin having privileged access to all.
 
 (4) Generate report / save logs into a pdf file. (with timestamp and necessary details)
 
