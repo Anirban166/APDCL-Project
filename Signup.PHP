@@ -34,7 +34,7 @@ echo "<div class='alert alert--danger text-center'>".$_GET['err']."</div>" ;
 <a href="index.php" class="btn btn-block btn-lg btn--secondary">Login Here</a>
 </div>
 </body>
-</html>
+</html> 
 
 <?php
 include'connection.php';
