@@ -13,7 +13,7 @@
 		$mail->Username = "SMTP username";
 		$mail->Password = "SMTP Password";
 		$mail->Host     = "SMTP HOST";
-		$mail->Mailer   = "smtp";
+		$mail->Mailer   = "smtp"; 
 		$mail->SetFrom("FROM EMAIL", "FROM NAME");
 		$mail->AddAddress($email);
 		$mail->Subject = "OTP to Login";
