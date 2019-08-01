@@ -1,7 +1,7 @@
 <?php	
 	function sendOTP($email,$otp) {
 		require('phpmailer/class.phpmailer.php');
-		require('phpmailer/class.smtp.php');
+		require('phpmailer/class.smtp.php'); 
 	
 		$message_body = "One Time Password for PHP login authentication is:<br/><br/>" . $otp;
 		$mail = new PHPMailer();
