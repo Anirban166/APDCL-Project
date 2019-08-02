@@ -2,7 +2,7 @@
 include'connection.php';
 session_start();
 
-if($_SESSION['email']!='')
+if($_SESSION['email']!='') 
 {
    $e=$_SESSION['email'];
    $sql="update infotab2 set active=0 where email='$e'";
