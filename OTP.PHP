@@ -61,7 +61,8 @@ if(isset($_POST['submit']))
   	if($count==1){
   		$_SESSION['email']=$e;
   		$sql1="update infotab2 set active=1 where email='$e'";
-  		if(mysqli_query($conn,$sql1)) {
+  		if(mysqli_query($conn,$sql1)) 
+		{
   		 	header("Location:report.php");
   		}
   		else
