@@ -8,7 +8,7 @@ Objectives:
 -------
 (1) Data Storage for attributes such as Username/Password/Email/DOB/DOR divided into two concurrent tables with masking of both.
 
-(2) Apart from regular users, an Administrator with greater rights should be accountable.
+(2) Apart from regular users, an Administrator with greater rights should be accountable for supervision.
 
 (3) Collect daily logs for each user which are accessible by them individually, with the Admin having privileged access to all.
 
