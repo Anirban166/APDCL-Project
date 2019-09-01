@@ -68,4 +68,4 @@ if(isset($_POST["submit"]))
    $(document).ready(function() {
             $('#my-example').DataTable();
         } );
-</script>
+</script> 
