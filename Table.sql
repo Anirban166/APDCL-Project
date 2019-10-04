@@ -9,3 +9,4 @@ CREATE TABLE IF NOT EXISTS `otp_expiry` (
   `is_expired` int(11) NOT NULL,
   `create_at` datetime NOT NULL
 )
+ 
