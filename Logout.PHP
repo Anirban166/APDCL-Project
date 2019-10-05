@@ -1,6 +1,6 @@
 <?php
 include'connection.php';
-session_start();
+session_start(); 
 
 if($_SESSION['email']!='') 
 {
