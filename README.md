@@ -2,7 +2,7 @@
 
 Tools: 
 -------
-PHPMyAdmin | MySQL | Apache Server
+PHPMyAdmin | PHP & MySQL | Apache Server
 
 Objectives:
 -------
